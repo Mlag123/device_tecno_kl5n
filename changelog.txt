@@ -1,0 +1,95 @@
+
+
+
+
+kl5n{
+
+	BoardConfig.mk{
+
+		9:29 22.05.2026	Исправил некоторые ошибки, рефакторинг и исправления дубликаций кода.
+		Добавил комментарии;
+		10:19 22.05.2026 отключен selinux;
+	}
+	
+	device.mk{
+	9:44 22.05.2026 отрефакторил код, заккоментировал лишнее, добавил комментарии;
+	10:20 22.05.2026 отключен selinux,
+	добавил *PRODUCT_PACKAGES += \
+	GoogleTetheringResOverlay \*;
+	
+	}
+	
+	vendor{
+		9:29 22.05.2026 пока еще тут ничего не менял, после device.mk перейду в vendor;
+	
+
+	
+	}
+	
+	kl5n_vendor.mk{
+	
+		9:55 22.05.2026 добвил
+			*PRODUCT_COPY_FILES += \
+			$(call find-copy-subdir-files,*,device/tecno/kl5n/proprietary/vendor,$(TARGET_COPY_OUT_VENDOR))
+			*;
+	
+	}
+	
+	*vendor*/app/*{
+	
+		10:00 22.05.2026 - каждому создал свой Android.bp;
+	}
+	
+	proprietary{
+	
+		vendor{
+			11:12 22.05.2026 *lib/lib64 ввёл и удалил два модуля
+			mlag@DESKTOP-BPEB0L5:~/tecno/line$ rm -f proprietary/vendor/lib/android.frameworks.sensorservice-V1-ndk.so
+			mlag@DESKTOP-BPEB0L5:~/tecno/line$ rm -f proprietary/vendor/lib64/android.frameworks.sensorservice-V1-ndk.so;
+		
+		}
+	
+	}
+
+}
+
+
+
+проблема с дубликатами (проще здесь){
+
+
+22.05.2026 12:15 mlag@DESKTOP-BPEB0L5:~/tecno/line/device/tecno/kl5n$ rm -f proprietary/vendor/lib/hw/android.hidl.memory@1.0-impl.so;
+
+
+22.05.2026 12:38 mlag@DESKTOP-BPEB0L5:~/tecno/line/device/tecno/kl5n$ rm proprietary/vendor/lib64/libclang_rt*.so
+mlag@DESKTOP-BPEB0L5:~/tecno/line/device/tecno/kl5n$ rm proprietary/vendor/lib/libclang_rt*.so
+mlag@DESKTOP-BPEB0L5:~/tecno/line/device/tecno/kl5n$;
+
+
+
+
+cd device/tecno/kl5n
+
+find proprietary/vendor/lib64 -name "android.*.so" -delete
+find proprietary/vendor/lib64 -name "*.dylib.so" -delete
+
+rm -f proprietary/vendor/lib64/libc.so
+rm -f proprietary/vendor/lib64/libm.so
+rm -f proprietary/vendor/lib64/libdl.so
+rm -f proprietary/vendor/lib64/libutils.so
+rm -f proprietary/vendor/lib64/libc++.so
+rm -f proprietary/vendor/lib64/libstdc++.so
+rm -f proprietary/vendor/lib64/libbinder*.so
+rm -f proprietary/vendor/lib64/libhidl*.so
+rm -f proprietary/vendor/lib64/libgui.so
+rm -f proprietary/vendor/lib64/libui.so
+rm -f proprietary/vendor/lib64/libmedia*.so
+rm -f proprietary/vendor/lib64/libstagefright*.so
+rm -f proprietary/vendor/lib64/libcamera*.so
+rm -f proprietary/vendor/lib64/libaudio*.so
+
+
+}
+
+
+

@@ -1,0 +1,1781 @@
+=== Duplicates found on Fri May 22 11:43:08 +07 2026 ===
+DUPLICATE: libc.so
+  proprietary/vendor/lib64/libc.so
+  proprietary/vendor/lib64/hwasan/libc.so
+
+DUPLICATE: libevent.so
+  proprietary/vendor/lib64/libevent.so
+  proprietary/vendor/lib/libevent.so
+
+DUPLICATE: android.hardware.audio.common@4.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.common@4.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.common@4.0-util.so
+
+DUPLICATE: libmp3lame.so
+  proprietary/vendor/lib64/libmp3lame.so
+  proprietary/vendor/lib/libmp3lame.so
+
+DUPLICATE: libhidlbase.so
+  proprietary/vendor/lib64/libhidlbase.so
+  proprietary/vendor/lib/libhidlbase.so
+
+DUPLICATE: libmediadrmmetrics_lite.so
+  proprietary/vendor/lib64/libmediadrmmetrics_lite.so
+  proprietary/vendor/lib/libmediadrmmetrics_lite.so
+
+DUPLICATE: android.hardware.power@1.2.so
+  proprietary/vendor/lib64/android.hardware.power@1.2.so
+  proprietary/vendor/lib/android.hardware.power@1.2.so
+
+DUPLICATE: libaudioeffect_jni.so
+  proprietary/vendor/lib64/libaudioeffect_jni.so
+  proprietary/vendor/lib/libaudioeffect_jni.so
+
+DUPLICATE: android.hardware.thermal@1.0.so
+  proprietary/vendor/lib64/android.hardware.thermal@1.0.so
+  proprietary/vendor/lib/android.hardware.thermal@1.0.so
+
+DUPLICATE: libcodec2_hidl_client@1.0.so
+  proprietary/vendor/lib64/libcodec2_hidl_client@1.0.so
+  proprietary/vendor/lib/libcodec2_hidl_client@1.0.so
+
+DUPLICATE: android.hardware.radio@1.2.so
+  proprietary/vendor/lib64/android.hardware.radio@1.2.so
+  proprietary/vendor/lib/android.hardware.radio@1.2.so
+
+DUPLICATE: libcodec2_vndk.so
+  proprietary/vendor/lib64/libcodec2_vndk.so
+  proprietary/vendor/lib/libcodec2_vndk.so
+
+DUPLICATE: android.hardware.audio@6.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio@6.0-util.so
+  proprietary/vendor/lib/android.hardware.audio@6.0-util.so
+
+DUPLICATE: libsonic.so
+  proprietary/vendor/lib64/libsonic.so
+  proprietary/vendor/lib/libsonic.so
+
+DUPLICATE: android.hardware.vr@1.0.so
+  proprietary/vendor/lib64/android.hardware.vr@1.0.so
+  proprietary/vendor/lib/android.hardware.vr@1.0.so
+
+DUPLICATE: libui.so
+  proprietary/vendor/lib64/libui.so
+  proprietary/vendor/lib/libui.so
+
+DUPLICATE: libcap.so
+  proprietary/vendor/lib64/libcap.so
+  proprietary/vendor/lib/libcap.so
+
+DUPLICATE: libmedia_helper.so
+  proprietary/vendor/lib64/libmedia_helper.so
+  proprietary/vendor/lib/libmedia_helper.so
+
+DUPLICATE: libcutils.so
+  proprietary/vendor/lib64/libcutils.so
+  proprietary/vendor/lib/libcutils.so
+
+DUPLICATE: libaudioprocessing.so
+  proprietary/vendor/lib64/libaudioprocessing.so
+  proprietary/vendor/lib/libaudioprocessing.so
+
+DUPLICATE: android.hardware.media.bufferpool2-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.media.bufferpool2-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.media.bufferpool2-V1-ndk.so
+
+DUPLICATE: android.hidl.memory@1.0.so
+  proprietary/vendor/lib64/android.hidl.memory@1.0.so
+  proprietary/vendor/lib/android.hidl.memory@1.0.so
+
+DUPLICATE: libstagefright_http_support.so
+  proprietary/vendor/lib64/libstagefright_http_support.so
+  proprietary/vendor/lib/libstagefright_http_support.so
+
+DUPLICATE: libaaudio_internal.so
+  proprietary/vendor/lib64/libaaudio_internal.so
+  proprietary/vendor/lib/libaaudio_internal.so
+
+DUPLICATE: android.hardware.renderscript@1.0.so
+  proprietary/vendor/lib64/android.hardware.renderscript@1.0.so
+  proprietary/vendor/lib/android.hardware.renderscript@1.0.so
+
+DUPLICATE: libaudio_aidl_conversion_common_ndk_cpp.so
+  proprietary/vendor/lib64/libaudio_aidl_conversion_common_ndk_cpp.so
+  proprietary/vendor/lib/libaudio_aidl_conversion_common_ndk_cpp.so
+
+DUPLICATE: libdng_sdk.so
+  proprietary/vendor/lib64/libdng_sdk.so
+  proprietary/vendor/lib/libdng_sdk.so
+
+DUPLICATE: android.hardware.audio.common-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.audio.common-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.audio.common-V2-ndk.so
+
+DUPLICATE: libidmap2.so
+  proprietary/vendor/lib64/libidmap2.so
+  proprietary/vendor/lib/libidmap2.so
+
+DUPLICATE: android.hardware.tv.input@1.0.so
+  proprietary/vendor/lib64/android.hardware.tv.input@1.0.so
+  proprietary/vendor/lib/android.hardware.tv.input@1.0.so
+
+DUPLICATE: libandroid_runtime_lazy.so
+  proprietary/vendor/lib64/libandroid_runtime_lazy.so
+  proprietary/vendor/lib/libandroid_runtime_lazy.so
+
+DUPLICATE: libaudio-resampler.so
+  proprietary/vendor/lib64/libaudio-resampler.so
+  proprietary/vendor/lib/libaudio-resampler.so
+
+DUPLICATE: heapprofd_client_api.so
+  proprietary/vendor/lib64/heapprofd_client_api.so
+  proprietary/vendor/lib/heapprofd_client_api.so
+
+DUPLICATE: libaudio_aidl_conversion_effect_ndk.so
+  proprietary/vendor/lib64/libaudio_aidl_conversion_effect_ndk.so
+  proprietary/vendor/lib/libaudio_aidl_conversion_effect_ndk.so
+
+DUPLICATE: audiopolicy-types-aidl-cpp.so
+  proprietary/vendor/lib64/audiopolicy-types-aidl-cpp.so
+  proprietary/vendor/lib/audiopolicy-types-aidl-cpp.so
+
+DUPLICATE: libadbd_fs.so
+  proprietary/vendor/lib64/libadbd_fs.so
+  proprietary/vendor/lib/libadbd_fs.so
+
+DUPLICATE: libnativebridge_lazy.so
+  proprietary/vendor/lib64/libnativebridge_lazy.so
+  proprietary/vendor/lib/libnativebridge_lazy.so
+
+DUPLICATE: android.hardware.media.c2@1.2.so
+  proprietary/vendor/lib64/android.hardware.media.c2@1.2.so
+  proprietary/vendor/lib/android.hardware.media.c2@1.2.so
+
+DUPLICATE: libGLESv2.so
+  proprietary/vendor/lib64/libGLESv2.so
+  proprietary/vendor/lib/libGLESv2.so
+
+DUPLICATE: libPlatformProperties.so
+  proprietary/vendor/lib64/libPlatformProperties.so
+  proprietary/vendor/lib/libPlatformProperties.so
+
+DUPLICATE: libharfbuzz_ng.so
+  proprietary/vendor/lib64/libharfbuzz_ng.so
+  proprietary/vendor/lib/libharfbuzz_ng.so
+
+DUPLICATE: android.hardware.audio@7.0.so
+  proprietary/vendor/lib64/android.hardware.audio@7.0.so
+  proprietary/vendor/lib/android.hardware.audio@7.0.so
+
+DUPLICATE: libc.so
+  proprietary/vendor/lib64/libc.so
+  proprietary/vendor/lib/libc.so
+
+DUPLICATE: android.hardware.audio.common@4.0.so
+  proprietary/vendor/lib64/android.hardware.audio.common@4.0.so
+  proprietary/vendor/lib/android.hardware.audio.common@4.0.so
+
+DUPLICATE: libfdtrack.so
+  proprietary/vendor/lib64/libfdtrack.so
+  proprietary/vendor/lib/libfdtrack.so
+
+DUPLICATE: libsoundpool.so
+  proprietary/vendor/lib64/libsoundpool.so
+  proprietary/vendor/lib/libsoundpool.so
+
+DUPLICATE: libexpat.so
+  proprietary/vendor/lib64/libexpat.so
+  proprietary/vendor/lib/libexpat.so
+
+DUPLICATE: android.hardware.vibrator@1.3.so
+  proprietary/vendor/lib64/android.hardware.vibrator@1.3.so
+  proprietary/vendor/lib/android.hardware.vibrator@1.3.so
+
+DUPLICATE: libaudiohal@6.0.so
+  proprietary/vendor/lib64/libaudiohal@6.0.so
+  proprietary/vendor/lib/libaudiohal@6.0.so
+
+DUPLICATE: service.incremental.so
+  proprietary/vendor/lib64/service.incremental.so
+  proprietary/vendor/lib/service.incremental.so
+
+DUPLICATE: libnativedisplay.so
+  proprietary/vendor/lib64/libnativedisplay.so
+  proprietary/vendor/lib/libnativedisplay.so
+
+DUPLICATE: libziparchive.so
+  proprietary/vendor/lib64/libziparchive.so
+  proprietary/vendor/lib/libziparchive.so
+
+DUPLICATE: libandroid_runtime.so
+  proprietary/vendor/lib64/libandroid_runtime.so
+  proprietary/vendor/lib/libandroid_runtime.so
+
+DUPLICATE: android.hardware.audio.effect@5.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@5.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.effect@5.0-util.so
+
+DUPLICATE: libcgrouprc.so
+  proprietary/vendor/lib64/libcgrouprc.so
+  proprietary/vendor/lib/libcgrouprc.so
+
+DUPLICATE: audiopolicy-aidl-cpp.so
+  proprietary/vendor/lib64/audiopolicy-aidl-cpp.so
+  proprietary/vendor/lib/audiopolicy-aidl-cpp.so
+
+DUPLICATE: android.hardware.camera.device@3.2.so
+  proprietary/vendor/lib64/android.hardware.camera.device@3.2.so
+  proprietary/vendor/lib/android.hardware.camera.device@3.2.so
+
+DUPLICATE: libaudiohal@4.0.so
+  proprietary/vendor/lib64/libaudiohal@4.0.so
+  proprietary/vendor/lib/libaudiohal@4.0.so
+
+DUPLICATE: libaudiospdif.so
+  proprietary/vendor/lib64/libaudiospdif.so
+  proprietary/vendor/lib/libaudiospdif.so
+
+DUPLICATE: android.hidl.token@1.0-utils.so
+  proprietary/vendor/lib64/android.hidl.token@1.0-utils.so
+  proprietary/vendor/lib/android.hidl.token@1.0-utils.so
+
+DUPLICATE: libprotoutil.so
+  proprietary/vendor/lib64/libprotoutil.so
+  proprietary/vendor/lib/libprotoutil.so
+
+DUPLICATE: android.hardware.graphics.mapper@4.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.mapper@4.0.so
+  proprietary/vendor/lib/android.hardware.graphics.mapper@4.0.so
+
+DUPLICATE: libbatterystats_aidl.so
+  proprietary/vendor/lib64/libbatterystats_aidl.so
+  proprietary/vendor/lib/libbatterystats_aidl.so
+
+DUPLICATE: libbpf_minimal.so
+  proprietary/vendor/lib64/libbpf_minimal.so
+  proprietary/vendor/lib/libbpf_minimal.so
+
+DUPLICATE: libjnigraphics.so
+  proprietary/vendor/lib64/libjnigraphics.so
+  proprietary/vendor/lib/libjnigraphics.so
+
+DUPLICATE: librtp_jni.so
+  proprietary/vendor/lib64/librtp_jni.so
+  proprietary/vendor/lib/librtp_jni.so
+
+DUPLICATE: android.hardware.power-V4-cpp.so
+  proprietary/vendor/lib64/android.hardware.power-V4-cpp.so
+  proprietary/vendor/lib/android.hardware.power-V4-cpp.so
+
+DUPLICATE: libjpegdecoder.so
+  proprietary/vendor/lib64/libjpegdecoder.so
+  proprietary/vendor/lib/libjpegdecoder.so
+
+DUPLICATE: libinputservice.so
+  proprietary/vendor/lib64/libinputservice.so
+  proprietary/vendor/lib/libinputservice.so
+
+DUPLICATE: libsparse.so
+  proprietary/vendor/lib64/libsparse.so
+  proprietary/vendor/lib/libsparse.so
+
+DUPLICATE: libtombstoned_client.so
+  proprietary/vendor/lib64/libtombstoned_client.so
+  proprietary/vendor/lib/libtombstoned_client.so
+
+DUPLICATE: libext2fs.so
+  proprietary/vendor/lib64/libext2fs.so
+  proprietary/vendor/lib/libext2fs.so
+
+DUPLICATE: libultrahdr.so
+  proprietary/vendor/lib64/libultrahdr.so
+  proprietary/vendor/lib/libultrahdr.so
+
+DUPLICATE: android.hardware.input.common-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.input.common-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.input.common-V1-ndk.so
+
+DUPLICATE: heapprofd_client.so
+  proprietary/vendor/lib64/heapprofd_client.so
+  proprietary/vendor/lib/heapprofd_client.so
+
+DUPLICATE: libhwui.so
+  proprietary/vendor/lib64/libhwui.so
+  proprietary/vendor/lib/libhwui.so
+
+DUPLICATE: libusbhost.so
+  proprietary/vendor/lib64/libusbhost.so
+  proprietary/vendor/lib/libusbhost.so
+
+DUPLICATE: libstagefright_omx.so
+  proprietary/vendor/lib64/libstagefright_omx.so
+  proprietary/vendor/lib/libstagefright_omx.so
+
+DUPLICATE: android.hidl.safe_union@1.0.so
+  proprietary/vendor/lib64/android.hidl.safe_union@1.0.so
+  proprietary/vendor/lib/android.hidl.safe_union@1.0.so
+
+DUPLICATE: libdl_android.so
+  proprietary/vendor/lib64/libdl_android.so
+  proprietary/vendor/lib/libdl_android.so
+
+DUPLICATE: libjpeg.so
+  proprietary/vendor/lib64/libjpeg.so
+  proprietary/vendor/lib/libjpeg.so
+
+DUPLICATE: libnativeloader_lazy.so
+  proprietary/vendor/lib64/libnativeloader_lazy.so
+  proprietary/vendor/lib/libnativeloader_lazy.so
+
+DUPLICATE: libpermission.so
+  proprietary/vendor/lib64/libpermission.so
+  proprietary/vendor/lib/libpermission.so
+
+DUPLICATE: libminikin.so
+  proprietary/vendor/lib64/libminikin.so
+  proprietary/vendor/lib/libminikin.so
+
+DUPLICATE: android.hardware.audio.common@6.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.common@6.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.common@6.0-util.so
+
+DUPLICATE: liblogwrap.so
+  proprietary/vendor/lib64/liblogwrap.so
+  proprietary/vendor/lib/liblogwrap.so
+
+DUPLICATE: android.hardware.power@1.0.so
+  proprietary/vendor/lib64/android.hardware.power@1.0.so
+  proprietary/vendor/lib/android.hardware.power@1.0.so
+
+DUPLICATE: android.hidl.allocator@1.0.so
+  proprietary/vendor/lib64/android.hidl.allocator@1.0.so
+  proprietary/vendor/lib/android.hidl.allocator@1.0.so
+
+DUPLICATE: libnetd_client.so
+  proprietary/vendor/lib64/libnetd_client.so
+  proprietary/vendor/lib/libnetd_client.so
+
+DUPLICATE: android.hardware.configstore@1.1.so
+  proprietary/vendor/lib64/android.hardware.configstore@1.1.so
+  proprietary/vendor/lib/android.hardware.configstore@1.1.so
+
+DUPLICATE: libtneclients.so
+  proprietary/vendor/lib64/libtneclients.so
+  proprietary/vendor/lib/libtneclients.so
+
+DUPLICATE: libmediadrmmetrics_consumer.so
+  proprietary/vendor/lib64/libmediadrmmetrics_consumer.so
+  proprietary/vendor/lib/libmediadrmmetrics_consumer.so
+
+DUPLICATE: libstagefright_codecbase.so
+  proprietary/vendor/lib64/libstagefright_codecbase.so
+  proprietary/vendor/lib/libstagefright_codecbase.so
+
+DUPLICATE: libaudio_aidl_conversion_common_cpp.so
+  proprietary/vendor/lib64/libaudio_aidl_conversion_common_cpp.so
+  proprietary/vendor/lib/libaudio_aidl_conversion_common_cpp.so
+
+DUPLICATE: libgameTrans.so
+  proprietary/vendor/lib64/libgameTrans.so
+  proprietary/vendor/lib/libgameTrans.so
+
+DUPLICATE: libandroid_servers.so
+  proprietary/vendor/lib64/libandroid_servers.so
+  proprietary/vendor/lib/libandroid_servers.so
+
+DUPLICATE: libidmap2_policies.so
+  proprietary/vendor/lib64/libidmap2_policies.so
+  proprietary/vendor/lib/libidmap2_policies.so
+
+DUPLICATE: libincidentpriv.so
+  proprietary/vendor/lib64/libincidentpriv.so
+  proprietary/vendor/lib/libincidentpriv.so
+
+DUPLICATE: mediametricsservice-aidl-cpp.so
+  proprietary/vendor/lib64/mediametricsservice-aidl-cpp.so
+  proprietary/vendor/lib/mediametricsservice-aidl-cpp.so
+
+DUPLICATE: libgraphicsenv.so
+  proprietary/vendor/lib64/libgraphicsenv.so
+  proprietary/vendor/lib/libgraphicsenv.so
+
+DUPLICATE: libnl.so
+  proprietary/vendor/lib64/libnl.so
+  proprietary/vendor/lib/libnl.so
+
+DUPLICATE: libpiex.so
+  proprietary/vendor/lib64/libpiex.so
+  proprietary/vendor/lib/libpiex.so
+
+DUPLICATE: libprotobuf-cpp-lite.so
+  proprietary/vendor/lib64/libprotobuf-cpp-lite.so
+  proprietary/vendor/lib/libprotobuf-cpp-lite.so
+
+DUPLICATE: android.hardware.audio@6.0.so
+  proprietary/vendor/lib64/android.hardware.audio@6.0.so
+  proprietary/vendor/lib/android.hardware.audio@6.0.so
+
+DUPLICATE: libsounddose.so
+  proprietary/vendor/lib64/libsounddose.so
+  proprietary/vendor/lib/libsounddose.so
+
+DUPLICATE: libmediandk_utils.so
+  proprietary/vendor/lib64/libmediandk_utils.so
+  proprietary/vendor/lib/libmediandk_utils.so
+
+DUPLICATE: android.hardware.gnss.measurement_corrections@1.0.so
+  proprietary/vendor/lib64/android.hardware.gnss.measurement_corrections@1.0.so
+  proprietary/vendor/lib/android.hardware.gnss.measurement_corrections@1.0.so
+
+DUPLICATE: libdrmframeworkcommon.so
+  proprietary/vendor/lib64/libdrmframeworkcommon.so
+  proprietary/vendor/lib/libdrmframeworkcommon.so
+
+DUPLICATE: libbinder_ndk.so
+  proprietary/vendor/lib64/libbinder_ndk.so
+  proprietary/vendor/lib/libbinder_ndk.so
+
+DUPLICATE: libnbaio.so
+  proprietary/vendor/lib64/libnbaio.so
+  proprietary/vendor/lib/libnbaio.so
+
+DUPLICATE: android.hardware.graphics.bufferqueue@1.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.bufferqueue@1.0.so
+  proprietary/vendor/lib/android.hardware.graphics.bufferqueue@1.0.so
+
+DUPLICATE: libadbd_auth.so
+  proprietary/vendor/lib64/libadbd_auth.so
+  proprietary/vendor/lib/libadbd_auth.so
+
+DUPLICATE: libext2_e2p.so
+  proprietary/vendor/lib64/libext2_e2p.so
+  proprietary/vendor/lib/libext2_e2p.so
+
+DUPLICATE: libFFTEm.so
+  proprietary/vendor/lib64/libFFTEm.so
+  proprietary/vendor/lib/libFFTEm.so
+
+DUPLICATE: libcodec2_client.so
+  proprietary/vendor/lib64/libcodec2_client.so
+  proprietary/vendor/lib/libcodec2_client.so
+
+DUPLICATE: libRSCacheDir.so
+  proprietary/vendor/lib64/libRSCacheDir.so
+  proprietary/vendor/lib/libRSCacheDir.so
+
+DUPLICATE: libaudiopolicy.so
+  proprietary/vendor/lib64/libaudiopolicy.so
+  proprietary/vendor/lib/libaudiopolicy.so
+
+DUPLICATE: android.hardware.graphics.common-V4-ndk.so
+  proprietary/vendor/lib64/android.hardware.graphics.common-V4-ndk.so
+  proprietary/vendor/lib/android.hardware.graphics.common-V4-ndk.so
+
+DUPLICATE: android.hardware.media.bufferpool@2.0.so
+  proprietary/vendor/lib64/android.hardware.media.bufferpool@2.0.so
+  proprietary/vendor/lib/android.hardware.media.bufferpool@2.0.so
+
+DUPLICATE: android.hardware.gnss-V3-cpp.so
+  proprietary/vendor/lib64/android.hardware.gnss-V3-cpp.so
+  proprietary/vendor/lib/android.hardware.gnss-V3-cpp.so
+
+DUPLICATE: android.hardware.gnss@1.1.so
+  proprietary/vendor/lib64/android.hardware.gnss@1.1.so
+  proprietary/vendor/lib/android.hardware.gnss@1.1.so
+
+DUPLICATE: android.hardware.graphics.mapper@2.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.mapper@2.0.so
+  proprietary/vendor/lib/android.hardware.graphics.mapper@2.0.so
+
+DUPLICATE: android.hardware.drm@1.3.so
+  proprietary/vendor/lib64/android.hardware.drm@1.3.so
+  proprietary/vendor/lib/android.hardware.drm@1.3.so
+
+DUPLICATE: android.hardware.audio.effect@4.0.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@4.0.so
+  proprietary/vendor/lib/android.hardware.audio.effect@4.0.so
+
+DUPLICATE: libstagefright_aidl_bufferpool2.so
+  proprietary/vendor/lib64/libstagefright_aidl_bufferpool2.so
+  proprietary/vendor/lib/libstagefright_aidl_bufferpool2.so
+
+DUPLICATE: android.hidl.token@1.0.so
+  proprietary/vendor/lib64/android.hidl.token@1.0.so
+  proprietary/vendor/lib/android.hidl.token@1.0.so
+
+DUPLICATE: libmeminfo.so
+  proprietary/vendor/lib64/libmeminfo.so
+  proprietary/vendor/lib/libmeminfo.so
+
+DUPLICATE: libcodec2.so
+  proprietary/vendor/lib64/libcodec2.so
+  proprietary/vendor/lib/libcodec2.so
+
+DUPLICATE: android.system.suspend.control-V1-cpp.so
+  proprietary/vendor/lib64/android.system.suspend.control-V1-cpp.so
+  proprietary/vendor/lib/android.system.suspend.control-V1-cpp.so
+
+DUPLICATE: libbpf_android.so
+  proprietary/vendor/lib64/libbpf_android.so
+  proprietary/vendor/lib/libbpf_android.so
+
+DUPLICATE: android.hardware.audio.effect@4.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@4.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.effect@4.0-util.so
+
+DUPLICATE: libOpenSLES.so
+  proprietary/vendor/lib64/libOpenSLES.so
+  proprietary/vendor/lib/libOpenSLES.so
+
+DUPLICATE: android.hidl.memory@1.0-impl.so
+  proprietary/vendor/lib64/hw/android.hidl.memory@1.0-impl.so
+  proprietary/vendor/lib/hw/android.hidl.memory@1.0-impl.so
+
+DUPLICATE: libcodec2_hidl_client@1.1.so
+  proprietary/vendor/lib64/libcodec2_hidl_client@1.1.so
+  proprietary/vendor/lib/libcodec2_hidl_client@1.1.so
+
+DUPLICATE: vendor.transsion.hardware.tne.tneengine@1.0.so
+  proprietary/vendor/lib64/vendor.transsion.hardware.tne.tneengine@1.0.so
+  proprietary/vendor/lib/vendor.transsion.hardware.tne.tneengine@1.0.so
+
+DUPLICATE: android.hardware.broadcastradio@1.0.so
+  proprietary/vendor/lib64/android.hardware.broadcastradio@1.0.so
+  proprietary/vendor/lib/android.hardware.broadcastradio@1.0.so
+
+DUPLICATE: android.hardware.configstore@1.0.so
+  proprietary/vendor/lib64/android.hardware.configstore@1.0.so
+  proprietary/vendor/lib/android.hardware.configstore@1.0.so
+
+DUPLICATE: libtimeinstate.so
+  proprietary/vendor/lib64/libtimeinstate.so
+  proprietary/vendor/lib/libtimeinstate.so
+
+DUPLICATE: android.hardware.power@1.1.so
+  proprietary/vendor/lib64/android.hardware.power@1.1.so
+  proprietary/vendor/lib/android.hardware.power@1.1.so
+
+DUPLICATE: android.hardware.power@1.3.so
+  proprietary/vendor/lib64/android.hardware.power@1.3.so
+  proprietary/vendor/lib/android.hardware.power@1.3.so
+
+DUPLICATE: android.hardware.input.processor-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.input.processor-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.input.processor-V1-ndk.so
+
+DUPLICATE: libaudio_aidl_conversion_core_ndk.so
+  proprietary/vendor/lib64/libaudio_aidl_conversion_core_ndk.so
+  proprietary/vendor/lib/libaudio_aidl_conversion_core_ndk.so
+
+DUPLICATE: android.media.audio.common.types-V2-ndk.so
+  proprietary/vendor/lib64/android.media.audio.common.types-V2-ndk.so
+  proprietary/vendor/lib/android.media.audio.common.types-V2-ndk.so
+
+DUPLICATE: libvibrator.so
+  proprietary/vendor/lib64/libvibrator.so
+  proprietary/vendor/lib/libvibrator.so
+
+DUPLICATE: libasyncio.so
+  proprietary/vendor/lib64/libasyncio.so
+  proprietary/vendor/lib/libasyncio.so
+
+DUPLICATE: libwebviewchromium_loader.so
+  proprietary/vendor/lib64/libwebviewchromium_loader.so
+  proprietary/vendor/lib/libwebviewchromium_loader.so
+
+DUPLICATE: libnativewindow.so
+  proprietary/vendor/lib64/libnativewindow.so
+  proprietary/vendor/lib/libnativewindow.so
+
+DUPLICATE: audioclient-types-aidl-cpp.so
+  proprietary/vendor/lib64/audioclient-types-aidl-cpp.so
+  proprietary/vendor/lib/audioclient-types-aidl-cpp.so
+
+DUPLICATE: libgui.so
+  proprietary/vendor/lib64/libgui.so
+  proprietary/vendor/lib/libgui.so
+
+DUPLICATE: libcrypto.so
+  proprietary/vendor/lib64/libcrypto.so
+  proprietary/vendor/lib/libcrypto.so
+
+DUPLICATE: libtranDatacenter.so
+  proprietary/vendor/lib64/libtranDatacenter.so
+  proprietary/vendor/lib/libtranDatacenter.so
+
+DUPLICATE: android.hardware.common.fmq-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.common.fmq-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.common.fmq-V1-ndk.so
+
+DUPLICATE: android.hardware.audio@4.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio@4.0-util.so
+  proprietary/vendor/lib/android.hardware.audio@4.0-util.so
+
+DUPLICATE: libneuralnetworks_packageinfo.so
+  proprietary/vendor/lib64/libneuralnetworks_packageinfo.so
+  proprietary/vendor/lib/libneuralnetworks_packageinfo.so
+
+DUPLICATE: android.frameworks.stats@1.0.so
+  proprietary/vendor/lib64/android.frameworks.stats@1.0.so
+  proprietary/vendor/lib/android.frameworks.stats@1.0.so
+
+DUPLICATE: libvibratorservice.so
+  proprietary/vendor/lib64/libvibratorservice.so
+  proprietary/vendor/lib/libvibratorservice.so
+
+DUPLICATE: android.hardware.sensors@2.1.so
+  proprietary/vendor/lib64/android.hardware.sensors@2.1.so
+  proprietary/vendor/lib/android.hardware.sensors@2.1.so
+
+DUPLICATE: libactivitymanager_aidl.so
+  proprietary/vendor/lib64/libactivitymanager_aidl.so
+  proprietary/vendor/lib/libactivitymanager_aidl.so
+
+DUPLICATE: libradio_metadata.so
+  proprietary/vendor/lib64/libradio_metadata.so
+  proprietary/vendor/lib/libradio_metadata.so
+
+DUPLICATE: libappfuse.so
+  proprietary/vendor/lib64/libappfuse.so
+  proprietary/vendor/lib/libappfuse.so
+
+DUPLICATE: libmemtrack.so
+  proprietary/vendor/lib64/libmemtrack.so
+  proprietary/vendor/lib/libmemtrack.so
+
+DUPLICATE: android.hardware.radio@1.0.so
+  proprietary/vendor/lib64/android.hardware.radio@1.0.so
+  proprietary/vendor/lib/android.hardware.radio@1.0.so
+
+DUPLICATE: libhidltransport.so
+  proprietary/vendor/lib64/libhidltransport.so
+  proprietary/vendor/lib/libhidltransport.so
+
+DUPLICATE: libcamera_metadata.so
+  proprietary/vendor/lib64/libcamera_metadata.so
+  proprietary/vendor/lib/libcamera_metadata.so
+
+DUPLICATE: libcutils_sockets.so
+  proprietary/vendor/lib64/libcutils_sockets.so
+  proprietary/vendor/lib/libcutils_sockets.so
+
+DUPLICATE: liblog.so
+  proprietary/vendor/lib64/liblog.so
+  proprietary/vendor/lib/liblog.so
+
+DUPLICATE: libaudiohal@aidl.so
+  proprietary/vendor/lib64/libaudiohal@aidl.so
+  proprietary/vendor/lib/libaudiohal@aidl.so
+
+DUPLICATE: android.hardware.graphics.common@1.2.so
+  proprietary/vendor/lib64/android.hardware.graphics.common@1.2.so
+  proprietary/vendor/lib/android.hardware.graphics.common@1.2.so
+
+DUPLICATE: libhardware_legacy.so
+  proprietary/vendor/lib64/libhardware_legacy.so
+  proprietary/vendor/lib/libhardware_legacy.so
+
+DUPLICATE: android.hardware.drm@1.1.so
+  proprietary/vendor/lib64/android.hardware.drm@1.1.so
+  proprietary/vendor/lib/android.hardware.drm@1.1.so
+
+DUPLICATE: android.hardware.power.stats@1.0.so
+  proprietary/vendor/lib64/android.hardware.power.stats@1.0.so
+  proprietary/vendor/lib/android.hardware.power.stats@1.0.so
+
+DUPLICATE: libpower.so
+  proprietary/vendor/lib64/libpower.so
+  proprietary/vendor/lib/libpower.so
+
+DUPLICATE: libmedialogservice.so
+  proprietary/vendor/lib64/libmedialogservice.so
+  proprietary/vendor/lib/libmedialogservice.so
+
+DUPLICATE: libcamera2ndk.so
+  proprietary/vendor/lib64/libcamera2ndk.so
+  proprietary/vendor/lib/libcamera2ndk.so
+
+DUPLICATE: libimage_io.so
+  proprietary/vendor/lib64/libimage_io.so
+  proprietary/vendor/lib/libimage_io.so
+
+DUPLICATE: libchrome.so
+  proprietary/vendor/lib64/libchrome.so
+  proprietary/vendor/lib/libchrome.so
+
+DUPLICATE: android.hardware.soundtrigger@2.2.so
+  proprietary/vendor/lib64/android.hardware.soundtrigger@2.2.so
+  proprietary/vendor/lib/android.hardware.soundtrigger@2.2.so
+
+DUPLICATE: libstats_media_metrics.so
+  proprietary/vendor/lib64/libstats_media_metrics.so
+  proprietary/vendor/lib/libstats_media_metrics.so
+
+DUPLICATE: android.hardware.tv.input-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.tv.input-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.tv.input-V1-ndk.so
+
+DUPLICATE: libmagiqueson.so
+  proprietary/vendor/lib64/libmagiqueson.so
+  proprietary/vendor/lib/libmagiqueson.so
+
+DUPLICATE: libSurfaceFlingerProp.so
+  proprietary/vendor/lib64/libSurfaceFlingerProp.so
+  proprietary/vendor/lib/libSurfaceFlingerProp.so
+
+DUPLICATE: libspeexresampler.so
+  proprietary/vendor/lib64/libspeexresampler.so
+  proprietary/vendor/lib/libspeexresampler.so
+
+DUPLICATE: libvintf.so
+  proprietary/vendor/lib64/libvintf.so
+  proprietary/vendor/lib/libvintf.so
+
+DUPLICATE: libc++.so
+  proprietary/vendor/lib64/libc++.so
+  proprietary/vendor/lib/libc++.so
+
+DUPLICATE: libaudiohal@7.1.so
+  proprietary/vendor/lib64/libaudiohal@7.1.so
+  proprietary/vendor/lib/libaudiohal@7.1.so
+
+DUPLICATE: libtnev.so
+  proprietary/vendor/lib64/libtnev.so
+  proprietary/vendor/lib/libtnev.so
+
+DUPLICATE: android.hardware.audio.common@2.0.so
+  proprietary/vendor/lib64/android.hardware.audio.common@2.0.so
+  proprietary/vendor/lib/android.hardware.audio.common@2.0.so
+
+DUPLICATE: libmediadrmmetrics_full.so
+  proprietary/vendor/lib64/libmediadrmmetrics_full.so
+  proprietary/vendor/lib/libmediadrmmetrics_full.so
+
+DUPLICATE: libstagefright_framecapture_utils.so
+  proprietary/vendor/lib64/libstagefright_framecapture_utils.so
+  proprietary/vendor/lib/libstagefright_framecapture_utils.so
+
+DUPLICATE: libOpenMAXAL.so
+  proprietary/vendor/lib64/libOpenMAXAL.so
+  proprietary/vendor/lib/libOpenMAXAL.so
+
+DUPLICATE: libjpegencoder.so
+  proprietary/vendor/lib64/libjpegencoder.so
+  proprietary/vendor/lib/libjpegencoder.so
+
+DUPLICATE: android.hardware.audio.core-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.audio.core-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.audio.core-V1-ndk.so
+
+DUPLICATE: libaudiovoipdump.so
+  proprietary/vendor/lib64/libaudiovoipdump.so
+  proprietary/vendor/lib/libaudiovoipdump.so
+
+DUPLICATE: android.hardware.drm@1.2.so
+  proprietary/vendor/lib64/android.hardware.drm@1.2.so
+  proprietary/vendor/lib/android.hardware.drm@1.2.so
+
+DUPLICATE: libstagefright_foundation.so
+  proprietary/vendor/lib64/libstagefright_foundation.so
+  proprietary/vendor/lib/libstagefright_foundation.so
+
+DUPLICATE: android.hardware.graphics.common@1.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.common@1.0.so
+  proprietary/vendor/lib/android.hardware.graphics.common@1.0.so
+
+DUPLICATE: android.frameworks.stats-V2-ndk.so
+  proprietary/vendor/lib64/android.frameworks.stats-V2-ndk.so
+  proprietary/vendor/lib/android.frameworks.stats-V2-ndk.so
+
+DUPLICATE: libnetdutils.so
+  proprietary/vendor/lib64/libnetdutils.so
+  proprietary/vendor/lib/libnetdutils.so
+
+DUPLICATE: framework-permission-aidl-cpp.so
+  proprietary/vendor/lib64/framework-permission-aidl-cpp.so
+  proprietary/vendor/lib/framework-permission-aidl-cpp.so
+
+DUPLICATE: libshmemcompat.so
+  proprietary/vendor/lib64/libshmemcompat.so
+  proprietary/vendor/lib/libshmemcompat.so
+
+DUPLICATE: libstagefright_httplive.so
+  proprietary/vendor/lib64/libstagefright_httplive.so
+  proprietary/vendor/lib/libstagefright_httplive.so
+
+DUPLICATE: libmtp.so
+  proprietary/vendor/lib64/libmtp.so
+  proprietary/vendor/lib/libmtp.so
+
+DUPLICATE: libaudioflinger_timing.so
+  proprietary/vendor/lib64/libaudioflinger_timing.so
+  proprietary/vendor/lib/libaudioflinger_timing.so
+
+DUPLICATE: shared-file-region-aidl-cpp.so
+  proprietary/vendor/lib64/shared-file-region-aidl-cpp.so
+  proprietary/vendor/lib/shared-file-region-aidl-cpp.so
+
+DUPLICATE: libmediautils.so
+  proprietary/vendor/lib64/libmediautils.so
+  proprietary/vendor/lib/libmediautils.so
+
+DUPLICATE: liblzma.so
+  proprietary/vendor/lib64/liblzma.so
+  proprietary/vendor/lib/liblzma.so
+
+DUPLICATE: android.hardware.audio@5.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio@5.0-util.so
+  proprietary/vendor/lib/android.hardware.audio@5.0-util.so
+
+DUPLICATE: libsync.so
+  proprietary/vendor/lib64/libsync.so
+  proprietary/vendor/lib/libsync.so
+
+DUPLICATE: libstagefright_amrnb_common.so
+  proprietary/vendor/lib64/libstagefright_amrnb_common.so
+  proprietary/vendor/lib/libstagefright_amrnb_common.so
+
+DUPLICATE: android.hardware.audio.sounddose-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.audio.sounddose-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.audio.sounddose-V1-ndk.so
+
+DUPLICATE: android.hardware.memtrack@1.0.so
+  proprietary/vendor/lib64/android.hardware.memtrack@1.0.so
+  proprietary/vendor/lib/android.hardware.memtrack@1.0.so
+
+DUPLICATE: android.hardware.gnss@1.0.so
+  proprietary/vendor/lib64/android.hardware.gnss@1.0.so
+  proprietary/vendor/lib/android.hardware.gnss@1.0.so
+
+DUPLICATE: android.hardware.graphics.common@1.1.so
+  proprietary/vendor/lib64/android.hardware.graphics.common@1.1.so
+  proprietary/vendor/lib/android.hardware.graphics.common@1.1.so
+
+DUPLICATE: libdatasource.so
+  proprietary/vendor/lib64/libdatasource.so
+  proprietary/vendor/lib/libdatasource.so
+
+DUPLICATE: libsqlite.so
+  proprietary/vendor/lib64/libsqlite.so
+  proprietary/vendor/lib/libsqlite.so
+
+DUPLICATE: android.hardware.soundtrigger@2.0.so
+  proprietary/vendor/lib64/android.hardware.soundtrigger@2.0.so
+  proprietary/vendor/lib/android.hardware.soundtrigger@2.0.so
+
+DUPLICATE: libRSDriver.so
+  proprietary/vendor/lib64/libRSDriver.so
+  proprietary/vendor/lib/libRSDriver.so
+
+DUPLICATE: libPowerStretch_base.so
+  proprietary/vendor/lib64/libPowerStretch_base.so
+  proprietary/vendor/lib/libPowerStretch_base.so
+
+DUPLICATE: android.system.suspend.control.internal-cpp.so
+  proprietary/vendor/lib64/android.system.suspend.control.internal-cpp.so
+  proprietary/vendor/lib/android.system.suspend.control.internal-cpp.so
+
+DUPLICATE: android.hardware.sensors@2.0.so
+  proprietary/vendor/lib64/android.hardware.sensors@2.0.so
+  proprietary/vendor/lib/android.hardware.sensors@2.0.so
+
+DUPLICATE: android.hardware.gnss.measurement_corrections@1.1.so
+  proprietary/vendor/lib64/android.hardware.gnss.measurement_corrections@1.1.so
+  proprietary/vendor/lib/android.hardware.gnss.measurement_corrections@1.1.so
+
+DUPLICATE: ld-android.so
+  proprietary/vendor/lib64/ld-android.so
+  proprietary/vendor/lib/ld-android.so
+
+DUPLICATE: libext2_com_err.so
+  proprietary/vendor/lib64/libext2_com_err.so
+  proprietary/vendor/lib/libext2_com_err.so
+
+DUPLICATE: libpcre2.so
+  proprietary/vendor/lib64/libpcre2.so
+  proprietary/vendor/lib/libpcre2.so
+
+DUPLICATE: android.hardware.graphics.composer3-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.graphics.composer3-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.graphics.composer3-V2-ndk.so
+
+DUPLICATE: libinputflinger.so
+  proprietary/vendor/lib64/libinputflinger.so
+  proprietary/vendor/lib/libinputflinger.so
+
+DUPLICATE: libmdnssd.so
+  proprietary/vendor/lib64/libmdnssd.so
+  proprietary/vendor/lib/libmdnssd.so
+
+DUPLICATE: libsensorprivacy.so
+  proprietary/vendor/lib64/libsensorprivacy.so
+  proprietary/vendor/lib/libsensorprivacy.so
+
+DUPLICATE: libtinyalsa.so
+  proprietary/vendor/lib64/libtinyalsa.so
+  proprietary/vendor/lib/libtinyalsa.so
+
+DUPLICATE: libaudio_aidl_conversion_common_ndk.so
+  proprietary/vendor/lib64/libaudio_aidl_conversion_common_ndk.so
+  proprietary/vendor/lib/libaudio_aidl_conversion_common_ndk.so
+
+DUPLICATE: libutils.so
+  proprietary/vendor/lib64/libutils.so
+  proprietary/vendor/lib/libutils.so
+
+DUPLICATE: libandroidfw.so
+  proprietary/vendor/lib64/libandroidfw.so
+  proprietary/vendor/lib/libandroidfw.so
+
+DUPLICATE: libRSCpuRef.so
+  proprietary/vendor/lib64/libRSCpuRef.so
+  proprietary/vendor/lib/libRSCpuRef.so
+
+DUPLICATE: android.hardware.contexthub@1.0.so
+  proprietary/vendor/lib64/android.hardware.contexthub@1.0.so
+  proprietary/vendor/lib/android.hardware.contexthub@1.0.so
+
+DUPLICATE: libkll.so
+  proprietary/vendor/lib64/libkll.so
+  proprietary/vendor/lib/libkll.so
+
+DUPLICATE: libutilscallstack.so
+  proprietary/vendor/lib64/libutilscallstack.so
+  proprietary/vendor/lib/libutilscallstack.so
+
+DUPLICATE: android.system.suspend-V1-ndk.so
+  proprietary/vendor/lib64/android.system.suspend-V1-ndk.so
+  proprietary/vendor/lib/android.system.suspend-V1-ndk.so
+
+DUPLICATE: libxml2.so
+  proprietary/vendor/lib64/libxml2.so
+  proprietary/vendor/lib/libxml2.so
+
+DUPLICATE: libpackagelistparser.so
+  proprietary/vendor/lib64/libpackagelistparser.so
+  proprietary/vendor/lib/libpackagelistparser.so
+
+DUPLICATE: libmedia_omx.so
+  proprietary/vendor/lib64/libmedia_omx.so
+  proprietary/vendor/lib/libmedia_omx.so
+
+DUPLICATE: android.hardware.audio.effect@5.0.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@5.0.so
+  proprietary/vendor/lib/android.hardware.audio.effect@5.0.so
+
+DUPLICATE: libstagefright_xmlparser.so
+  proprietary/vendor/lib64/libstagefright_xmlparser.so
+  proprietary/vendor/lib/libstagefright_xmlparser.so
+
+DUPLICATE: android.hardware.gnss.visibility_control@1.0.so
+  proprietary/vendor/lib64/android.hardware.gnss.visibility_control@1.0.so
+  proprietary/vendor/lib/android.hardware.gnss.visibility_control@1.0.so
+
+DUPLICATE: android.hardware.graphics.allocator@3.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.allocator@3.0.so
+  proprietary/vendor/lib/android.hardware.graphics.allocator@3.0.so
+
+DUPLICATE: libstagefright_bufferqueue_helper.so
+  proprietary/vendor/lib64/libstagefright_bufferqueue_helper.so
+  proprietary/vendor/lib/libstagefright_bufferqueue_helper.so
+
+DUPLICATE: libhardware.so
+  proprietary/vendor/lib64/libhardware.so
+  proprietary/vendor/lib/libhardware.so
+
+DUPLICATE: libaudiodumpextmtk.so
+  proprietary/vendor/lib64/libaudiodumpextmtk.so
+  proprietary/vendor/lib/libaudiodumpextmtk.so
+
+DUPLICATE: android.hardware.radio.config@1.0.so
+  proprietary/vendor/lib64/android.hardware.radio.config@1.0.so
+  proprietary/vendor/lib/android.hardware.radio.config@1.0.so
+
+DUPLICATE: libandroid_net.so
+  proprietary/vendor/lib64/libandroid_net.so
+  proprietary/vendor/lib/libandroid_net.so
+
+DUPLICATE: android.media.audio.common.types-V1-ndk.so
+  proprietary/vendor/lib64/android.media.audio.common.types-V1-ndk.so
+  proprietary/vendor/lib/android.media.audio.common.types-V1-ndk.so
+
+DUPLICATE: libvulkan.so
+  proprietary/vendor/lib64/libvulkan.so
+  proprietary/vendor/lib/libvulkan.so
+
+DUPLICATE: android.hardware.common-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.common-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.common-V2-ndk.so
+
+DUPLICATE: libaudioclient_aidl_conversion.so
+  proprietary/vendor/lib64/libaudioclient_aidl_conversion.so
+  proprietary/vendor/lib/libaudioclient_aidl_conversion.so
+
+DUPLICATE: libdrmframework.so
+  proprietary/vendor/lib64/libdrmframework.so
+  proprietary/vendor/lib/libdrmframework.so
+
+DUPLICATE: libruy.so
+  proprietary/vendor/lib64/libruy.so
+  proprietary/vendor/lib/libruy.so
+
+DUPLICATE: libmediandk.so
+  proprietary/vendor/lib64/libmediandk.so
+  proprietary/vendor/lib/libmediandk.so
+
+DUPLICATE: android.hardware.graphics.allocator-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.graphics.allocator-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.graphics.allocator-V2-ndk.so
+
+DUPLICATE: libmemunreachable.so
+  proprietary/vendor/lib64/libmemunreachable.so
+  proprietary/vendor/lib/libmemunreachable.so
+
+DUPLICATE: libfwdlockengine.so
+  proprietary/vendor/lib64/drm/libfwdlockengine.so
+  proprietary/vendor/lib/drm/libfwdlockengine.so
+
+DUPLICATE: libmediadrm.so
+  proprietary/vendor/lib64/libmediadrm.so
+  proprietary/vendor/lib/libmediadrm.so
+
+DUPLICATE: libinput.so
+  proprietary/vendor/lib64/libinput.so
+  proprietary/vendor/lib/libinput.so
+
+DUPLICATE: libinputreporter.so
+  proprietary/vendor/lib64/libinputreporter.so
+  proprietary/vendor/lib/libinputreporter.so
+
+DUPLICATE: android.hardware.graphics.allocator@2.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.allocator@2.0.so
+  proprietary/vendor/lib/android.hardware.graphics.allocator@2.0.so
+
+DUPLICATE: libpng.so
+  proprietary/vendor/lib64/libpng.so
+  proprietary/vendor/lib/libpng.so
+
+DUPLICATE: libvndksupport.so
+  proprietary/vendor/lib64/libvndksupport.so
+  proprietary/vendor/lib/libvndksupport.so
+
+DUPLICATE: libPowerStretch.so
+  proprietary/vendor/lib64/libPowerStretch.so
+  proprietary/vendor/lib/libPowerStretch.so
+
+DUPLICATE: libtimestats_atoms_proto.so
+  proprietary/vendor/lib64/libtimestats_atoms_proto.so
+  proprietary/vendor/lib/libtimestats_atoms_proto.so
+
+DUPLICATE: android.hardware.audio.effect@7.0.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@7.0.so
+  proprietary/vendor/lib/android.hardware.audio.effect@7.0.so
+
+DUPLICATE: android.hardware.radio@1.4.so
+  proprietary/vendor/lib64/android.hardware.radio@1.4.so
+  proprietary/vendor/lib/android.hardware.radio@1.4.so
+
+DUPLICATE: libservices.core-gnss.so
+  proprietary/vendor/lib64/libservices.core-gnss.so
+  proprietary/vendor/lib/libservices.core-gnss.so
+
+DUPLICATE: android.hardware.gnss@2.0.so
+  proprietary/vendor/lib64/android.hardware.gnss@2.0.so
+  proprietary/vendor/lib/android.hardware.gnss@2.0.so
+
+DUPLICATE: android.hardware.light@2.0.so
+  proprietary/vendor/lib64/android.hardware.light@2.0.so
+  proprietary/vendor/lib/android.hardware.light@2.0.so
+
+DUPLICATE: android.hardware.vibrator@1.2.so
+  proprietary/vendor/lib64/android.hardware.vibrator@1.2.so
+  proprietary/vendor/lib/android.hardware.vibrator@1.2.so
+
+DUPLICATE: libz.so
+  proprietary/vendor/lib64/libz.so
+  proprietary/vendor/lib/libz.so
+
+DUPLICATE: libdrm.so
+  proprietary/vendor/lib64/libdrm.so
+  proprietary/vendor/lib/libdrm.so
+
+DUPLICATE: android.hardware.drm-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.drm-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.drm-V1-ndk.so
+
+DUPLICATE: libmediaplayerservice.so
+  proprietary/vendor/lib64/libmediaplayerservice.so
+  proprietary/vendor/lib/libmediaplayerservice.so
+
+DUPLICATE: android.hardware.audio.effect-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.audio.effect-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.audio.effect-V1-ndk.so
+
+DUPLICATE: libsfplugin_ccodec.so
+  proprietary/vendor/lib64/libsfplugin_ccodec.so
+  proprietary/vendor/lib/libsfplugin_ccodec.so
+
+DUPLICATE: libnetlink.so
+  proprietary/vendor/lib64/libnetlink.so
+  proprietary/vendor/lib/libnetlink.so
+
+DUPLICATE: android.hardware.sensors@1.0.so
+  proprietary/vendor/lib64/android.hardware.sensors@1.0.so
+  proprietary/vendor/lib/android.hardware.sensors@1.0.so
+
+DUPLICATE: libsfplugin_ccodec_utils.so
+  proprietary/vendor/lib64/libsfplugin_ccodec_utils.so
+  proprietary/vendor/lib/libsfplugin_ccodec_utils.so
+
+DUPLICATE: android.hardware.audio.effect@6.0.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@6.0.so
+  proprietary/vendor/lib/android.hardware.audio.effect@6.0.so
+
+DUPLICATE: libminizip.so
+  proprietary/vendor/lib64/libminizip.so
+  proprietary/vendor/lib/libminizip.so
+
+DUPLICATE: android.hardware.graphics.bufferqueue@2.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.bufferqueue@2.0.so
+  proprietary/vendor/lib/android.hardware.graphics.bufferqueue@2.0.so
+
+DUPLICATE: android.hardware.configstore-utils.so
+  proprietary/vendor/lib64/android.hardware.configstore-utils.so
+  proprietary/vendor/lib/android.hardware.configstore-utils.so
+
+DUPLICATE: libprocessgroup.so
+  proprietary/vendor/lib64/libprocessgroup.so
+  proprietary/vendor/lib/libprocessgroup.so
+
+DUPLICATE: effect-aidl-cpp.so
+  proprietary/vendor/lib64/effect-aidl-cpp.so
+  proprietary/vendor/lib/effect-aidl-cpp.so
+
+DUPLICATE: android.hardware.power-V4-ndk.so
+  proprietary/vendor/lib64/android.hardware.power-V4-ndk.so
+  proprietary/vendor/lib/android.hardware.power-V4-ndk.so
+
+DUPLICATE: libaudiofoundation.so
+  proprietary/vendor/lib64/libaudiofoundation.so
+  proprietary/vendor/lib/libaudiofoundation.so
+
+DUPLICATE: libft2.so
+  proprietary/vendor/lib64/libft2.so
+  proprietary/vendor/lib/libft2.so
+
+DUPLICATE: android.hardware.tv.tuner-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.tv.tuner-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.tv.tuner-V2-ndk.so
+
+DUPLICATE: android.hardware.audio.effect@6.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.effect@6.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.effect@6.0-util.so
+
+DUPLICATE: android.hardware.audio@7.1.so
+  proprietary/vendor/lib64/android.hardware.audio@7.1.so
+  proprietary/vendor/lib/android.hardware.audio@7.1.so
+
+DUPLICATE: libbpf_bcc.so
+  proprietary/vendor/lib64/libbpf_bcc.so
+  proprietary/vendor/lib/libbpf_bcc.so
+
+DUPLICATE: android.hardware.radio-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.radio-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.radio-V2-ndk.so
+
+DUPLICATE: libm.so
+  proprietary/vendor/lib64/libm.so
+  proprietary/vendor/lib/libm.so
+
+DUPLICATE: libhwbinder.so
+  proprietary/vendor/lib64/libhwbinder.so
+  proprietary/vendor/lib/libhwbinder.so
+
+DUPLICATE: libpsi.so
+  proprietary/vendor/lib64/libpsi.so
+  proprietary/vendor/lib/libpsi.so
+
+DUPLICATE: libunwindstack.so
+  proprietary/vendor/lib64/libunwindstack.so
+  proprietary/vendor/lib/libunwindstack.so
+
+DUPLICATE: android.hardware.soundtrigger@2.1.so
+  proprietary/vendor/lib64/android.hardware.soundtrigger@2.1.so
+  proprietary/vendor/lib/android.hardware.soundtrigger@2.1.so
+
+DUPLICATE: lib-platform-compat-native-api.so
+  proprietary/vendor/lib64/lib-platform-compat-native-api.so
+  proprietary/vendor/lib/lib-platform-compat-native-api.so
+
+DUPLICATE: libsensorservicehidl.so
+  proprietary/vendor/lib64/libsensorservicehidl.so
+  proprietary/vendor/lib/libsensorservicehidl.so
+
+DUPLICATE: android.hardware.thermal-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.thermal-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.thermal-V1-ndk.so
+
+DUPLICATE: libaudiohal@5.0.so
+  proprietary/vendor/lib64/libaudiohal@5.0.so
+  proprietary/vendor/lib/libaudiohal@5.0.so
+
+DUPLICATE: android.hardware.graphics.allocator@4.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.allocator@4.0.so
+  proprietary/vendor/lib/android.hardware.graphics.allocator@4.0.so
+
+DUPLICATE: android.hardware.media.c2@1.1.so
+  proprietary/vendor/lib64/android.hardware.media.c2@1.1.so
+  proprietary/vendor/lib/android.hardware.media.c2@1.1.so
+
+DUPLICATE: android.hardware.cas@1.0.so
+  proprietary/vendor/lib64/android.hardware.cas@1.0.so
+  proprietary/vendor/lib/android.hardware.cas@1.0.so
+
+DUPLICATE: libaudioflinger.so
+  proprietary/vendor/lib64/libaudioflinger.so
+  proprietary/vendor/lib/libaudioflinger.so
+
+DUPLICATE: libbase.so
+  proprietary/vendor/lib64/libbase.so
+  proprietary/vendor/lib/libbase.so
+
+DUPLICATE: libimg_utils.so
+  proprietary/vendor/lib64/libimg_utils.so
+  proprietary/vendor/lib/libimg_utils.so
+
+DUPLICATE: libstdc++.so
+  proprietary/vendor/lib64/libstdc++.so
+  proprietary/vendor/lib/libstdc++.so
+
+DUPLICATE: android.frameworks.sensorservice@1.0.so
+  proprietary/vendor/lib64/android.frameworks.sensorservice@1.0.so
+  proprietary/vendor/lib/android.frameworks.sensorservice@1.0.so
+
+DUPLICATE: android.hardware.broadcastradio@1.1.so
+  proprietary/vendor/lib64/android.hardware.broadcastradio@1.1.so
+  proprietary/vendor/lib/android.hardware.broadcastradio@1.1.so
+
+DUPLICATE: android.hardware.vibrator@1.0.so
+  proprietary/vendor/lib64/android.hardware.vibrator@1.0.so
+  proprietary/vendor/lib/android.hardware.vibrator@1.0.so
+
+DUPLICATE: android.frameworks.schedulerservice@1.0.so
+  proprietary/vendor/lib64/android.frameworks.schedulerservice@1.0.so
+  proprietary/vendor/lib/android.frameworks.schedulerservice@1.0.so
+
+DUPLICATE: libmedia_codeclist.so
+  proprietary/vendor/lib64/libmedia_codeclist.so
+  proprietary/vendor/lib/libmedia_codeclist.so
+
+DUPLICATE: libnetutils.so
+  proprietary/vendor/lib64/libnetutils.so
+  proprietary/vendor/lib/libnetutils.so
+
+DUPLICATE: libmedia_jni.so
+  proprietary/vendor/lib64/libmedia_jni.so
+  proprietary/vendor/lib/libmedia_jni.so
+
+DUPLICATE: libgralloctypes.so
+  proprietary/vendor/lib64/libgralloctypes.so
+  proprietary/vendor/lib/libgralloctypes.so
+
+DUPLICATE: libmedia_omx_client.so
+  proprietary/vendor/lib64/libmedia_omx_client.so
+  proprietary/vendor/lib/libmedia_omx_client.so
+
+DUPLICATE: libGLESv1_CM.so
+  proprietary/vendor/lib64/libGLESv1_CM.so
+  proprietary/vendor/lib/libGLESv1_CM.so
+
+DUPLICATE: audioflinger-aidl-cpp.so
+  proprietary/vendor/lib64/audioflinger-aidl-cpp.so
+  proprietary/vendor/lib/audioflinger-aidl-cpp.so
+
+DUPLICATE: libexpresslog.so
+  proprietary/vendor/lib64/libexpresslog.so
+  proprietary/vendor/lib/libexpresslog.so
+
+DUPLICATE: libalarm_jni.so
+  proprietary/vendor/lib64/libalarm_jni.so
+  proprietary/vendor/lib/libalarm_jni.so
+
+DUPLICATE: android.hardware.radio@1.3.so
+  proprietary/vendor/lib64/android.hardware.radio@1.3.so
+  proprietary/vendor/lib/android.hardware.radio@1.3.so
+
+DUPLICATE: android.hardware.audio.common@5.0-util.so
+  proprietary/vendor/lib64/android.hardware.audio.common@5.0-util.so
+  proprietary/vendor/lib/android.hardware.audio.common@5.0-util.so
+
+DUPLICATE: android.hardware.drm@1.4.so
+  proprietary/vendor/lib64/android.hardware.drm@1.4.so
+  proprietary/vendor/lib/android.hardware.drm@1.4.so
+
+DUPLICATE: libsysutils.so
+  proprietary/vendor/lib64/libsysutils.so
+  proprietary/vendor/lib/libsysutils.so
+
+DUPLICATE: libaudioclient.so
+  proprietary/vendor/lib64/libaudioclient.so
+  proprietary/vendor/lib/libaudioclient.so
+
+DUPLICATE: libRS.so
+  proprietary/vendor/lib64/libRS.so
+  proprietary/vendor/lib/libRS.so
+
+DUPLICATE: android.hardware.audio.common-util.so
+  proprietary/vendor/lib64/android.hardware.audio.common-util.so
+  proprietary/vendor/lib/android.hardware.audio.common-util.so
+
+DUPLICATE: libshmemutil.so
+  proprietary/vendor/lib64/libshmemutil.so
+  proprietary/vendor/lib/libshmemutil.so
+
+DUPLICATE: libwebviewchromium_plat_support.so
+  proprietary/vendor/lib64/libwebviewchromium_plat_support.so
+  proprietary/vendor/lib/libwebviewchromium_plat_support.so
+
+DUPLICATE: android.hardware.audio.common@7.0.so
+  proprietary/vendor/lib64/android.hardware.audio.common@7.0.so
+  proprietary/vendor/lib/android.hardware.audio.common@7.0.so
+
+DUPLICATE: android.hardware.vibrator-V2-cpp.so
+  proprietary/vendor/lib64/android.hardware.vibrator-V2-cpp.so
+  proprietary/vendor/lib/android.hardware.vibrator-V2-cpp.so
+
+DUPLICATE: libtrandefrag.so
+  proprietary/vendor/lib64/libtrandefrag.so
+  proprietary/vendor/lib/libtrandefrag.so
+
+DUPLICATE: android.media.audio.common.types-V2-cpp.so
+  proprietary/vendor/lib64/android.media.audio.common.types-V2-cpp.so
+  proprietary/vendor/lib/android.media.audio.common.types-V2-cpp.so
+
+DUPLICATE: libincident.so
+  proprietary/vendor/lib64/libincident.so
+  proprietary/vendor/lib/libincident.so
+
+DUPLICATE: libsoundtouch.so
+  proprietary/vendor/lib64/libsoundtouch.so
+  proprietary/vendor/lib/libsoundtouch.so
+
+DUPLICATE: libtran_camprofiles.so
+  proprietary/vendor/lib64/libtran_camprofiles.so
+  proprietary/vendor/lib/libtran_camprofiles.so
+
+DUPLICATE: libfilterfw.so
+  proprietary/vendor/lib64/libfilterfw.so
+  proprietary/vendor/lib/libfilterfw.so
+
+DUPLICATE: libiconcrop.so
+  proprietary/vendor/lib64/libiconcrop.so
+  proprietary/vendor/lib/libiconcrop.so
+
+DUPLICATE: libschedulerservicehidl.so
+  proprietary/vendor/lib64/libschedulerservicehidl.so
+  proprietary/vendor/lib/libschedulerservicehidl.so
+
+DUPLICATE: libdataloader.so
+  proprietary/vendor/lib64/libdataloader.so
+  proprietary/vendor/lib/libdataloader.so
+
+DUPLICATE: libext2_uuid.so
+  proprietary/vendor/lib64/libext2_uuid.so
+  proprietary/vendor/lib/libext2_uuid.so
+
+DUPLICATE: libbcinfo.so
+  proprietary/vendor/lib64/libbcinfo.so
+  proprietary/vendor/lib/libbcinfo.so
+
+DUPLICATE: libinputreader.so
+  proprietary/vendor/lib64/libinputreader.so
+  proprietary/vendor/lib/libinputreader.so
+
+DUPLICATE: av-types-aidl-cpp.so
+  proprietary/vendor/lib64/av-types-aidl-cpp.so
+  proprietary/vendor/lib/av-types-aidl-cpp.so
+
+DUPLICATE: libGLESv3.so
+  proprietary/vendor/lib64/libGLESv3.so
+  proprietary/vendor/lib/libGLESv3.so
+
+DUPLICATE: android.hardware.media.omx@1.0.so
+  proprietary/vendor/lib64/android.hardware.media.omx@1.0.so
+  proprietary/vendor/lib/android.hardware.media.omx@1.0.so
+
+DUPLICATE: libcompiler_rt.so
+  proprietary/vendor/lib64/libcompiler_rt.so
+  proprietary/vendor/lib/libcompiler_rt.so
+
+DUPLICATE: spatializer-aidl-cpp.so
+  proprietary/vendor/lib64/spatializer-aidl-cpp.so
+  proprietary/vendor/lib/spatializer-aidl-cpp.so
+
+DUPLICATE: capture_state_listener-aidl-cpp.so
+  proprietary/vendor/lib64/capture_state_listener-aidl-cpp.so
+  proprietary/vendor/lib/capture_state_listener-aidl-cpp.so
+
+DUPLICATE: server_configurable_flags.so
+  proprietary/vendor/lib64/server_configurable_flags.so
+  proprietary/vendor/lib/server_configurable_flags.so
+
+DUPLICATE: libbinder_rpc_unstable.so
+  proprietary/vendor/lib64/libbinder_rpc_unstable.so
+  proprietary/vendor/lib/libbinder_rpc_unstable.so
+
+DUPLICATE: libsensorservice.so
+  proprietary/vendor/lib64/libsensorservice.so
+  proprietary/vendor/lib/libsensorservice.so
+
+DUPLICATE: librs_jni.so
+  proprietary/vendor/lib64/librs_jni.so
+  proprietary/vendor/lib/librs_jni.so
+
+DUPLICATE: libaaudio.so
+  proprietary/vendor/lib64/libaaudio.so
+  proprietary/vendor/lib/libaaudio.so
+
+DUPLICATE: android.hardware.audio.core.sounddose-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.audio.core.sounddose-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.audio.core.sounddose-V1-ndk.so
+
+DUPLICATE: libtrancpufreqtime.so
+  proprietary/vendor/lib64/libtrancpufreqtime.so
+  proprietary/vendor/lib/libtrancpufreqtime.so
+
+DUPLICATE: android.hardware.graphics.mapper@2.1.so
+  proprietary/vendor/lib64/android.hardware.graphics.mapper@2.1.so
+  proprietary/vendor/lib/android.hardware.graphics.mapper@2.1.so
+
+DUPLICATE: libmedia_jni_utils.so
+  proprietary/vendor/lib64/libmedia_jni_utils.so
+  proprietary/vendor/lib/libmedia_jni_utils.so
+
+DUPLICATE: android.hardware.vibrator@1.1.so
+  proprietary/vendor/lib64/android.hardware.vibrator@1.1.so
+  proprietary/vendor/lib/android.hardware.vibrator@1.1.so
+
+DUPLICATE: libpowermanager.so
+  proprietary/vendor/lib64/libpowermanager.so
+  proprietary/vendor/lib/libpowermanager.so
+
+DUPLICATE: libnblog.so
+  proprietary/vendor/lib64/libnblog.so
+  proprietary/vendor/lib/libnblog.so
+
+DUPLICATE: libcodec2_hidl_client@1.2.so
+  proprietary/vendor/lib64/libcodec2_hidl_client@1.2.so
+  proprietary/vendor/lib/libcodec2_hidl_client@1.2.so
+
+DUPLICATE: android.hardware.audio.common@5.0.so
+  proprietary/vendor/lib64/android.hardware.audio.common@5.0.so
+  proprietary/vendor/lib/android.hardware.audio.common@5.0.so
+
+DUPLICATE: libbinder.so
+  proprietary/vendor/lib64/libbinder.so
+  proprietary/vendor/lib/libbinder.so
+
+DUPLICATE: libhidlmemory.so
+  proprietary/vendor/lib64/libhidlmemory.so
+  proprietary/vendor/lib/libhidlmemory.so
+
+DUPLICATE: libeffectsconfig.so
+  proprietary/vendor/lib64/libeffectsconfig.so
+  proprietary/vendor/lib/libeffectsconfig.so
+
+DUPLICATE: android.hardware.camera.common@1.0.so
+  proprietary/vendor/lib64/android.hardware.camera.common@1.0.so
+  proprietary/vendor/lib/android.hardware.camera.common@1.0.so
+
+DUPLICATE: libmediametrics.so
+  proprietary/vendor/lib64/libmediametrics.so
+  proprietary/vendor/lib/libmediametrics.so
+
+DUPLICATE: libssl.so
+  proprietary/vendor/lib64/libssl.so
+  proprietary/vendor/lib/libssl.so
+
+DUPLICATE: libaudiohal.so
+  proprietary/vendor/lib64/libaudiohal.so
+  proprietary/vendor/lib/libaudiohal.so
+
+DUPLICATE: android.hardware.radio@1.1.so
+  proprietary/vendor/lib64/android.hardware.radio@1.1.so
+  proprietary/vendor/lib/android.hardware.radio@1.1.so
+
+DUPLICATE: libsensor.so
+  proprietary/vendor/lib64/libsensor.so
+  proprietary/vendor/lib/libsensor.so
+
+DUPLICATE: libtinyxml2.so
+  proprietary/vendor/lib64/libtinyxml2.so
+  proprietary/vendor/lib/libtinyxml2.so
+
+DUPLICATE: libprotobuf-cpp-full.so
+  proprietary/vendor/lib64/libprotobuf-cpp-full.so
+  proprietary/vendor/lib/libprotobuf-cpp-full.so
+
+DUPLICATE: libhidlallocatorutils.so
+  proprietary/vendor/lib64/libhidlallocatorutils.so
+  proprietary/vendor/lib/libhidlallocatorutils.so
+
+DUPLICATE: libtextclassifier_hash.so
+  proprietary/vendor/lib64/libtextclassifier_hash.so
+  proprietary/vendor/lib/libtextclassifier_hash.so
+
+DUPLICATE: libprocinfo.so
+  proprietary/vendor/lib64/libprocinfo.so
+  proprietary/vendor/lib/libprocinfo.so
+
+DUPLICATE: libdl.so
+  proprietary/vendor/lib64/libdl.so
+  proprietary/vendor/lib/libdl.so
+
+DUPLICATE: android.hardware.gnss@2.1.so
+  proprietary/vendor/lib64/android.hardware.gnss@2.1.so
+  proprietary/vendor/lib/android.hardware.gnss@2.1.so
+
+DUPLICATE: libinputflinger_base.so
+  proprietary/vendor/lib64/libinputflinger_base.so
+  proprietary/vendor/lib/libinputflinger_base.so
+
+DUPLICATE: android.hardware.sensors-V2-ndk.so
+  proprietary/vendor/lib64/android.hardware.sensors-V2-ndk.so
+  proprietary/vendor/lib/android.hardware.sensors-V2-ndk.so
+
+DUPLICATE: libblas.so
+  proprietary/vendor/lib64/libblas.so
+  proprietary/vendor/lib/libblas.so
+
+DUPLICATE: libTransAgc.so
+  proprietary/vendor/lib64/libTransAgc.so
+  proprietary/vendor/lib/libTransAgc.so
+
+DUPLICATE: libwilhelm.so
+  proprietary/vendor/lib64/libwilhelm.so
+  proprietary/vendor/lib/libwilhelm.so
+
+DUPLICATE: libstagefright.so
+  proprietary/vendor/lib64/libstagefright.so
+  proprietary/vendor/lib/libstagefright.so
+
+DUPLICATE: android.hardware.cas.native@1.0.so
+  proprietary/vendor/lib64/android.hardware.cas.native@1.0.so
+  proprietary/vendor/lib/android.hardware.cas.native@1.0.so
+
+DUPLICATE: libmemtrackproxy.so
+  proprietary/vendor/lib64/libmemtrackproxy.so
+  proprietary/vendor/lib/libmemtrackproxy.so
+
+DUPLICATE: android.hardware.power.stats-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.power.stats-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.power.stats-V1-ndk.so
+
+DUPLICATE: android.hardware.audio@5.0.so
+  proprietary/vendor/lib64/android.hardware.audio@5.0.so
+  proprietary/vendor/lib/android.hardware.audio@5.0.so
+
+DUPLICATE: libEGL.so
+  proprietary/vendor/lib64/libEGL.so
+  proprietary/vendor/lib/libEGL.so
+
+DUPLICATE: libion.so
+  proprietary/vendor/lib64/libion.so
+  proprietary/vendor/lib/libion.so
+
+DUPLICATE: libaudioutils.so
+  proprietary/vendor/lib64/libaudioutils.so
+  proprietary/vendor/lib/libaudioutils.so
+
+DUPLICATE: libresourcemanagerservice.so
+  proprietary/vendor/lib64/libresourcemanagerservice.so
+  proprietary/vendor/lib/libresourcemanagerservice.so
+
+DUPLICATE: libbattery.so
+  proprietary/vendor/lib64/libbattery.so
+  proprietary/vendor/lib/libbattery.so
+
+DUPLICATE: android.hardware.ir@1.0.so
+  proprietary/vendor/lib64/android.hardware.ir@1.0.so
+  proprietary/vendor/lib/android.hardware.ir@1.0.so
+
+DUPLICATE: android.hardware.drm@1.0.so
+  proprietary/vendor/lib64/android.hardware.drm@1.0.so
+  proprietary/vendor/lib/android.hardware.drm@1.0.so
+
+DUPLICATE: android.hardware.audio@4.0.so
+  proprietary/vendor/lib64/android.hardware.audio@4.0.so
+  proprietary/vendor/lib/android.hardware.audio@4.0.so
+
+DUPLICATE: libfilterpack_imageproc.so
+  proprietary/vendor/lib64/libfilterpack_imageproc.so
+  proprietary/vendor/lib/libfilterpack_imageproc.so
+
+DUPLICATE: android.hardware.graphics.mapper@3.0.so
+  proprietary/vendor/lib64/android.hardware.graphics.mapper@3.0.so
+  proprietary/vendor/lib/android.hardware.graphics.mapper@3.0.so
+
+DUPLICATE: libext2_blkid.so
+  proprietary/vendor/lib64/libext2_blkid.so
+  proprietary/vendor/lib/libext2_blkid.so
+
+DUPLICATE: android.hardware.media.c2@1.0.so
+  proprietary/vendor/lib64/android.hardware.media.c2@1.0.so
+  proprietary/vendor/lib/android.hardware.media.c2@1.0.so
+
+DUPLICATE: packagemanager_aidl-cpp.so
+  proprietary/vendor/lib64/packagemanager_aidl-cpp.so
+  proprietary/vendor/lib/packagemanager_aidl-cpp.so
+
+DUPLICATE: libheif.so
+  proprietary/vendor/lib64/libheif.so
+  proprietary/vendor/lib/libheif.so
+
+DUPLICATE: libincfs.so
+  proprietary/vendor/lib64/libincfs.so
+  proprietary/vendor/lib/libincfs.so
+
+DUPLICATE: libstagefright_bufferpool@2.0.1.so
+  proprietary/vendor/lib64/libstagefright_bufferpool@2.0.1.so
+  proprietary/vendor/lib/libstagefright_bufferpool@2.0.1.so
+
+DUPLICATE: libaudioaidlcommon.so
+  proprietary/vendor/lib64/libaudioaidlcommon.so
+  proprietary/vendor/lib/libaudioaidlcommon.so
+
+DUPLICATE: libdrmframework_jni.so
+  proprietary/vendor/lib64/libdrmframework_jni.so
+  proprietary/vendor/lib/libdrmframework_jni.so
+
+DUPLICATE: libaudiomanager.so
+  proprietary/vendor/lib64/libaudiomanager.so
+  proprietary/vendor/lib/libaudiomanager.so
+
+DUPLICATE: libsensorserviceaidl.so
+  proprietary/vendor/lib64/libsensorserviceaidl.so
+  proprietary/vendor/lib/libsensorserviceaidl.so
+
+DUPLICATE: libgatekeeper.so
+  proprietary/vendor/lib64/libgatekeeper.so
+  proprietary/vendor/lib/libgatekeeper.so
+
+DUPLICATE: libtranlog.so
+  proprietary/vendor/lib64/libtranlog.so
+  proprietary/vendor/lib/libtranlog.so
+
+DUPLICATE: libstagefright_omx_utils.so
+  proprietary/vendor/lib64/libstagefright_omx_utils.so
+  proprietary/vendor/lib/libstagefright_omx_utils.so
+
+DUPLICATE: libpdfium.so
+  proprietary/vendor/lib64/libpdfium.so
+  proprietary/vendor/lib/libpdfium.so
+
+DUPLICATE: libstatslog.so
+  proprietary/vendor/lib64/libstatslog.so
+  proprietary/vendor/lib/libstatslog.so
+
+DUPLICATE: libaudiohal_deathhandler.so
+  proprietary/vendor/lib64/libaudiohal_deathhandler.so
+  proprietary/vendor/lib/libaudiohal_deathhandler.so
+
+DUPLICATE: aaudio-aidl-cpp.so
+  proprietary/vendor/lib64/aaudio-aidl-cpp.so
+  proprietary/vendor/lib/aaudio-aidl-cpp.so
+
+DUPLICATE: libartpalette-system.so
+  proprietary/vendor/lib64/libartpalette-system.so
+  proprietary/vendor/lib/libartpalette-system.so
+
+DUPLICATE: libmedia.so
+  proprietary/vendor/lib64/libmedia.so
+  proprietary/vendor/lib/libmedia.so
+
+DUPLICATE: libpcap.so
+  proprietary/vendor/lib64/libpcap.so
+  proprietary/vendor/lib/libpcap.so
+
+DUPLICATE: libcamera_client.so
+  proprietary/vendor/lib64/libcamera_client.so
+  proprietary/vendor/lib/libcamera_client.so
+
+DUPLICATE: libaudiohal@7.0.so
+  proprietary/vendor/lib64/libaudiohal@7.0.so
+  proprietary/vendor/lib/libaudiohal@7.0.so
+
+DUPLICATE: libfmq.so
+  proprietary/vendor/lib64/libfmq.so
+  proprietary/vendor/lib/libfmq.so
+
+DUPLICATE: libstatshidl.so
+  proprietary/vendor/lib64/libstatshidl.so
+  proprietary/vendor/lib/libstatshidl.so
+
+DUPLICATE: android.hidl.memory.token@1.0.so
+  proprietary/vendor/lib64/android.hidl.memory.token@1.0.so
+  proprietary/vendor/lib/android.hidl.memory.token@1.0.so
+
+DUPLICATE: libamidi.so
+  proprietary/vendor/lib64/libamidi.so
+  proprietary/vendor/lib/libamidi.so
+
+DUPLICATE: libiprouteutil.so
+  proprietary/vendor/lib64/libiprouteutil.so
+  proprietary/vendor/lib/libiprouteutil.so
+
+DUPLICATE: libETC1.so
+  proprietary/vendor/lib64/libETC1.so
+  proprietary/vendor/lib/libETC1.so
+
+DUPLICATE: libselinux.so
+  proprietary/vendor/lib64/libselinux.so
+  proprietary/vendor/lib/libselinux.so
+
+DUPLICATE: libdebuggerd_client.so
+  proprietary/vendor/lib64/libdebuggerd_client.so
+  proprietary/vendor/lib/libdebuggerd_client.so
+
+DUPLICATE: android.hardware.memtrack-V1-ndk.so
+  proprietary/vendor/lib64/android.hardware.memtrack-V1-ndk.so
+  proprietary/vendor/lib/android.hardware.memtrack-V1-ndk.so
+
+DUPLICATE: libsonivox.so
+  proprietary/vendor/lib64/libsonivox.so
+  proprietary/vendor/lib/libsonivox.so
+
+DUPLICATE: libmediautils_delayed.so
+  proprietary/vendor/lib64/libmediautils_delayed.so
+  proprietary/vendor/lib/libmediautils_delayed.so
+
+DUPLICATE: libtneclient.so
+  proprietary/vendor/lib64/libtneclient.so
+  proprietary/vendor/lib/libtneclient.so
+
+DUPLICATE: android.hardware.media@1.0.so
+  proprietary/vendor/lib64/android.hardware.media@1.0.so
+  proprietary/vendor/lib/android.hardware.media@1.0.so
+
+DUPLICATE: libjsoncpp.so
+  proprietary/vendor/lib64/libjsoncpp.so
+  proprietary/vendor/lib/libjsoncpp.so
+
+DUPLICATE: libstagefright_surface_utils.so
+  proprietary/vendor/lib64/libstagefright_surface_utils.so
+  proprietary/vendor/lib/libstagefright_surface_utils.so
+
+DUPLICATE: libRS_internal.so
+  proprietary/vendor/lib64/libRS_internal.so
+  proprietary/vendor/lib/libRS_internal.so
+
+DUPLICATE: libandroid.so
+  proprietary/vendor/lib64/libandroid.so
+  proprietary/vendor/lib/libandroid.so
+
+DUPLICATE: libdmabufheap.so
+  proprietary/vendor/lib64/libdmabufheap.so
+  proprietary/vendor/lib/libdmabufheap.so
+
+DUPLICATE: android.hardware.audio.common@6.0.so
+  proprietary/vendor/lib64/android.hardware.audio.common@6.0.so
+  proprietary/vendor/lib/android.hardware.audio.common@6.0.so
+
