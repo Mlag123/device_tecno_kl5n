@@ -2,9 +2,9 @@
 
 Work in Progress
 # Checks
-- [X] Compiling
-- [X] Booting
-- [X] Display
-- [X] Sensors
-- [X] reboot to system
-- [X] ADB
+- [ X ] Compiling
+- [ X ] Booting
+- [ X ] Display
+- [ X ] Sensors
+- [ X ] reboot to system
+- [ X ] ADB
