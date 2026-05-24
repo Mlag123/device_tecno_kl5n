@@ -1,8 +1,10 @@
-# Android device tree for TECNO  (FULL-64)
+# Android device tree for TECNO  (KL5n/KL5)
 
-```
-#
-# SPDX-FileCopyrightText: The LineageOS Project
-# SPDX-License-Identifier: Apache-2.0
-#
-```
+Work in Progress
+# Checks
+- [X] Compiling
+- [X] Booting
+- [X] Display
+- [X] Sensors
+- [X] reboot to system
+- [X] ADB
