@@ -1,5 +1,6 @@
-#DEPRECATED
-##Android device tree for TECNO  (KL5n/KL5)
+Android device tree for TECNO  (KL5n/KL5)
+
+This deprecated DT
 
 Work in Progress
 # Checks
