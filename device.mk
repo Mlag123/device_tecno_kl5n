@@ -108,14 +108,13 @@ PRODUCT_PACKAGES += \
     init.tran_mcf.sh \
 	
 	
-#добавляем app
-PRODUCT_PACKAGES += \
-#	GoogleTetheringResOverlay \
-	InProcessTetheringResOverlay \
-	NetworkStackGoogleResOverlay \
-	NetworkStackInProcessResOverlay \
-	NetworkStackResOverlay \
-	TetheringResOverlay
+#добавляем app #	GoogleTetheringResOverlay 
+#PRODUCT_PACKAGES += \
+#	InProcessTetheringResOverlay \
+#	NetworkStackGoogleResOverlay \
+#	NetworkStackInProcessResOverlay \
+#	NetworkStackResOverlay \
+#	TetheringResOverlay
 
 
 
@@ -148,8 +147,11 @@ PRODUCT_PACKAGES += \
     meta_init.project.rc \
     meta_init.rc \
     meta_init.vendor.rc \
-    multi_init.rc \
+    multi_init.rc 
 
+
+# Vendor boot
+PRODUCT_BUILD_VENDOR_BOOT_IMAGE := false
 
 
 # Temporarily disable SELinux for bringup, SELinux off
