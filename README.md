@@ -1,3 +1,4 @@
+# DEPRECATED!
 Android device tree for TECNO  (KL5n/KL5)
 
 For Android 12
